@@ -19,4 +19,4 @@ The purpose of disk scheduling algorithms is to reduce the total seek time.
 
 ### User Interface:
 
-![demo]()
+![demo](https://github.com/AhmedIssa11/Disk-Scheduling-Algorithms/blob/master/demo.png)
