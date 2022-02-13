@@ -1,0 +1,47 @@
+#SSTF
+test case 1:
+queue : 98 183 41 122 14 124 65 67
+head : 53
+cylinder : 0 to 199
+HeadMov = 236
+---------------
+test case 2:
+queue : 82 170 43 140 24 16 190
+head : 50
+cylinder : 0 to 199
+headMov = 208
+###############################################
+###############################################
+#SCAN
+test case 1:
+queue : 98 183 41 122 14 124 65 67
+head : 53
+cylinder : 0 to 199
+direction : L
+HeadMov = 331
+---------------
+test case 2:
+queue : 82 170 43 140 24 16 190
+head : 50
+cylinder : 0 to 199
+direction : L
+headMov = 332
+---------------
+test case 3:
+queue : 30 110 80 240 20
+head : 60
+cylinder : 0 to 260
+direction : S
+headMov = 300
+
+#CLOOK
+30 110 80 240 20
+60
+large clyinder = 410
+smaller clyinder = 260
+
+#CSCAN
+30 110 80 240 20
+60
+right = 488
+left = 498
