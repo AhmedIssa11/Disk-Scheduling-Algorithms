@@ -7,11 +7,11 @@ The purpose of disk scheduling algorithms is to reduce the total seek time.
 #
 
 ### Implementation of the following Disk Algorithms:
-- FCFS
+- FCFS First Come First Serve
 - SSTF Shortest Seek Time First
 - SCAN Elevator Algorithm.
 - CSCAN Circular-SCAN
-- LOOK is an improved version of the SCAN Algorithm
+- LOOK  improved version of the SCAN Algorithm
 - CLOOK Circular-LOOK
 
 #
